@@ -5,22 +5,6 @@ While an Datasheet exsits the most important thing is missing, the font location
 Thats my try to find all the fonts and use that chip as much as possible. If you have a look at the [Raw image dump](#Raw image dump) there is still a lot to do here.
 
 
-
-
-# Fonts
-
-
-* [Font 1](#Font 1)
-* [Font 2](#Font 2)
-* [Font 3](#Font 3)
-* [Font 4](#Font 4)
-* [Font Clock 4](#Font Clock 4)
-* [Font Clock 3](#Font Clock 3)
-* [Font Clock 2](#Font Clock 2)
-* [Font Clock](#Font Clock)
-* [UiIcons](#UiIcons)
-* [Raw image dump](#Raw image dump)
-
 # Font 1
 
 **Offset** : `0x833f`
