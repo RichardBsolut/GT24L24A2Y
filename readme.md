@@ -1,4 +1,4 @@
-#GT24L24A2Y
+# GT24L24A2Y
 
 Its an "Standard dot matrix Chinese and foreign languages chip" from the company "Shanghai Qualcomm Semiconductor Co., Ltd".
 While an Datasheet exsits the most important thing is missing, the font location and blocksize. 
